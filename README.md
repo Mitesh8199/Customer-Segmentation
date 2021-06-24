@@ -18,3 +18,6 @@ RFM stands for Recency, Frequency, and Monetary value, each corresponding to som
 ### Monetary: The intention of customer to spend or purchasing power of customer.
 
 
+Please check the Jupyter Notebook for better understanding.
+
+
